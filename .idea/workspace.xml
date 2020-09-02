@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8de1972-cf93-4ecf-b486-1042c97fa89b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="LearnRpc" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/apache-maven-3.3.3" />
+        <option name="userSettingsFile" value="C:\Program Files\apache-maven-3.3.3\conf\settings_aliyun.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eXrFcD1HQB3yAZZcPK6M8l9ISL" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../netty-in-action-cn" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\CS\cs-code\LearnRpc\src\main\java\com\rpcdemo02\client" />
+      <recent name="E:\CS\cs-code\LearnRpc\src\main\java\com\rpcdemo02\discover" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.rpcdemo02.seriablize" />
+      <recent name="demo.api" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.rpcdemo02.discover.loadbalance" />
+      <recent name="com.rpcdemo02.client.loadBalance" />
+      <recent name="com.rpcdemo02.client" />
+      <recent name="com.rpcdemo02.server" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Consumer03">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rpcdemo01.Client" />
+      <module name="LearnRpc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rpcdemo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.consumer.Consumer" />
+      <module name="LearnRpc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Consumer03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.consumer.Consumer03" />
+      <module name="LearnRpc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rpcdemo01.Server" />
+      <module name="LearnRpc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rpcdemo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="provider03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.provider.provider03" />
+      <module name="LearnRpc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Consumer03" />
+        <item itemvalue="Application.provider03" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Consumer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8de1972-cf93-4ecf-b486-1042c97fa89b" name="Default Changelist" comment="" />
+      <created>1594478675568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594478675568</updated>
+      <workItem from="1594478678316" duration="600000" />
+      <workItem from="1594605494118" duration="8007000" />
+      <workItem from="1594694720203" duration="1942000" />
+      <workItem from="1594781538100" duration="4094000" />
+      <workItem from="1594813774966" duration="5958000" />
+      <workItem from="1594862241888" duration="1849000" />
+      <workItem from="1594870144911" duration="1211000" />
+      <workItem from="1594952236923" duration="622000" />
+      <workItem from="1595059758705" duration="1216000" />
+      <workItem from="1595403802120" duration="3925000" />
+      <workItem from="1595559848458" duration="9409000" />
+      <workItem from="1595646392694" duration="19403000" />
+      <workItem from="1595832309533" duration="3668000" />
+      <workItem from="1595840985571" duration="8730000" />
+      <workItem from="1595908889951" duration="9923000" />
+      <workItem from="1596016275093" duration="1242000" />
+      <workItem from="1596437833914" duration="809000" />
+      <workItem from="1596440639162" duration="1625000" />
+      <workItem from="1596513268901" duration="4897000" />
+      <workItem from="1596789956311" duration="1508000" />
+      <workItem from="1597890780475" duration="688000" />
+      <workItem from="1598409865874" duration="827000" />
+      <workItem from="1598510542235" duration="1976000" />
+      <workItem from="1598601722447" duration="4804000" />
+      <workItem from="1598668057188" duration="1097000" />
+      <workItem from="1598753242961" duration="2620000" />
+      <workItem from="1599033936244" duration="710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rpcdemo02/seriablize/KryoSeriablize.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
