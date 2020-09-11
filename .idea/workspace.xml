@@ -1,7 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8de1972-cf93-4ecf-b486-1042c97fa89b" name="Default Changelist" comment="" />
+    <list default="true" id="d8de1972-cf93-4ecf-b486-1042c97fa89b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/common/exception/RpcException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/common/exception/SerializeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/seriablize/KyroUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo01/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbybio/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo01/GoldenEyeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbybio/GoldenEyeImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo01/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbybio/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo01/Stub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbybio/Stub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo01/common/GoldenEyeApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbybio/common/GoldenEyeApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo01/common/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbybio/common/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo02/annotation/RpcService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/annotation/RpcService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo02/client/NettyTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/client/NettyTransport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo02/client/RpcClientProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/client/RpcClientProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo02/client/RpcInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/client/RpcInvocationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo02/common/ResponseCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/common/ResponseCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo02/common/RpcRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/common/RpcRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo02/common/RpcResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/common/RpcResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo02/discover/DiscoverService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/discover/DiscoverService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo02/discover/DiscoverServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/discover/DiscoverServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo02/discover/loadbalance/AbstractLoadBalance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/discover/loadbalance/AbstractLoadBalance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo02/discover/loadbalance/LoadBalance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/discover/loadbalance/LoadBalance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo02/discover/loadbalance/RandomLoadBalance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/discover/loadbalance/RandomLoadBalance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo02/register/ZkRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/register/ZkRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo02/register/ZkRegisterCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/register/ZkRegisterCenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo02/seriablize/KryoSeriablize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/seriablize/KryoSeriablize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo02/seriablize/KyroUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo02/seriablize/NettyKryoDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/seriablize/NettyKryoDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo02/seriablize/NettyKryoEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/seriablize/NettyKryoEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo02/seriablize/Serializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/seriablize/Serializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo02/server/ProcessRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/server/ProcessRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rpcdemo02/server/RpcServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rpcbynetty/server/RpcServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/api/DemoApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SampleDemo/api/DemoApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/api/Ihello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SampleDemo/api/Ihello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/consumer/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SampleDemo/consumer/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/consumer/Consumer03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SampleDemo/consumer/Consumer03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/entity/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SampleDemo/entity/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SampleDemo/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/provider/DemoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SampleDemo/provider/DemoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/provider/DemoImplV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SampleDemo/provider/DemoImplV1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/provider/DemoImplV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SampleDemo/provider/DemoImplV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/provider/DemoImplV3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SampleDemo/provider/DemoImplV3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/provider/HelloImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SampleDemo/provider/HelloImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/provider/Provider01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SampleDemo/provider/Provider01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/provider/Provider02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SampleDemo/provider/Provider02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/provider/provider03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SampleDemo/provider/provider03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo01/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo01/GoldenEyeImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo01/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo01/Stub$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo01/Stub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo01/common/GoldenEyeApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo01/common/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/annotation/RpcService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/client/NettyTransport$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/client/NettyTransport$ClientHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/client/NettyTransport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/client/RpcClientProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/client/RpcInvocationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/common/ResponseCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/common/RpcRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/common/RpcResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/discover/DiscoverService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/discover/DiscoverServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/discover/loadbalance/AbstractLoadBalance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/discover/loadbalance/LoadBalance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/discover/loadbalance/RandomLoadBalance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/register/ZkRegister.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/register/ZkRegisterCenter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/seriablize/KryoSeriablize$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/seriablize/KryoSeriablize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/seriablize/KyroUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/seriablize/NettyKryoDecoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/seriablize/NettyKryoEncoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/seriablize/Serializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/server/ProcessRequestHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/server/RpcServer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rpcdemo02/server/RpcServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/api/DemoApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/api/Ihello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/consumer/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/consumer/Consumer03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/entity/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/entity/User$UserBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/provider/DemoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/provider/DemoImplV1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/provider/DemoImplV2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/provider/DemoImplV3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/provider/HelloImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/provider/Provider01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/provider/Provider02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/provider/provider03.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +116,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -30,30 +128,32 @@
     </option>
   </component>
   <component name="ProjectId" id="1eXrFcD1HQB3yAZZcPK6M8l9ISL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/demo" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../netty-in-action-cn" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/case/guide-rpc/guide-rpc-framework" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\CS\cs-code\LearnRpc\src\main\java\com\rpcdemo02\client" />
-      <recent name="E:\CS\cs-code\LearnRpc\src\main\java\com\rpcdemo02\discover" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.rpcdemo02.seriablize" />
-      <recent name="demo.api" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.rpcdemo02.discover.loadbalance" />
       <recent name="com.rpcdemo02.client.loadBalance" />
       <recent name="com.rpcdemo02.client" />
       <recent name="com.rpcdemo02.server" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.rpcdemo02.seriablize" />
+      <recent name="demo.api" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\CS\cs-code\LearnRpc\src\main\java\com\rpcdemo02\client" />
+      <recent name="E:\CS\cs-code\LearnRpc\src\main\java\com\rpcdemo02\discover" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -68,13 +168,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Consumer03">
+  <component name="RunManager" selected="Application.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rpcdemo01.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.rpcbybio.Client" />
       <module name="LearnRpc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rpcdemo01.*" />
+          <option name="PATTERN" value="com.rpcbybio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,11 +183,11 @@
       </method>
     </configuration>
     <configuration name="Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.consumer.Consumer" />
+      <option name="MAIN_CLASS_NAME" value="SampleDemo.consumer.Consumer" />
       <module name="LearnRpc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.consumer.*" />
+          <option name="PATTERN" value="SampleDemo.consumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +196,11 @@
       </method>
     </configuration>
     <configuration name="Consumer03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.consumer.Consumer03" />
+      <option name="MAIN_CLASS_NAME" value="SampleDemo.consumer.Consumer03" />
       <module name="LearnRpc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.consumer.*" />
+          <option name="PATTERN" value="SampleDemo.consumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +209,11 @@
       </method>
     </configuration>
     <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rpcdemo01.Server" />
+      <option name="MAIN_CLASS_NAME" value="com.rpcbybio.Server" />
       <module name="LearnRpc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rpcdemo01.*" />
+          <option name="PATTERN" value="com.rpcbybio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +222,11 @@
       </method>
     </configuration>
     <configuration name="provider03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.provider.provider03" />
+      <option name="MAIN_CLASS_NAME" value="SampleDemo.provider.provider03" />
       <module name="LearnRpc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.provider.*" />
+          <option name="PATTERN" value="SampleDemo.provider.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,10 +236,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Consumer03" />
-        <item itemvalue="Application.provider03" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Consumer03" />
+        <item itemvalue="Application.provider03" />
         <item itemvalue="Application.Consumer" />
       </list>
     </recent_temporary>
@@ -180,18 +280,32 @@
       <workItem from="1598601722447" duration="4804000" />
       <workItem from="1598668057188" duration="1097000" />
       <workItem from="1598753242961" duration="2620000" />
-      <workItem from="1599033936244" duration="710000" />
+      <workItem from="1599033936244" duration="1847000" />
+      <workItem from="1599789932955" duration="4230000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/rpcdemo02/seriablize/KryoSeriablize.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/rpcbynetty/seriablize/KryoSeriablize.java</url>
           <line>51</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
